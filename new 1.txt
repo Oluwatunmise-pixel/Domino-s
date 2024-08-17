@@ -1,0 +1,39 @@
+ATTRIBUTES
+WE HAVE; ID,TITLE,CLASS AND STYLE
+v align ; vertically aligns your text
+align; horizontally aligns your text
+bgcolor;rgb,hex,numeric
+background; url
+commenting;ctrl+/
+
+
+
+
+
+             
+	CSS		 
+css-cascading style sheet
+It enabels website/page to load faster
+It is easy to maintain 
+It is compatible to many devices
+
+CSS Syntax rule includes;
+1.selector
+2.property
+3.value
+
+N:B;We style class using dot[...]
+CSS RULES OF OVERIDING
+When an inline [ Which is written in a tag as an attribute} overides both internal{it is written in the tag before the body} and external [it is written in a different file and linked to the html file} CSS
+When an inline [ Which is written in a tag as an attribute} overides both internal{it is written in the tag before the body} and external [it is written in a different file and linked to the html file} CSS
+
+
+selector: this includes <h1>....</h1> tag , the html tag itself e.g id,class e.t.c there are set of rules on how to code the selector
+TYPES OF SELECTOR INCLUDES;
+1.Universal selector:*{...}
+2.Group SELECTOR: h1,h2,h3{....}
+3.ID selector:#
+
+
+property:is the attribute given to a tag
+value:is the name of the attribute i.e selector{property="value"}
